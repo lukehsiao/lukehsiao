@@ -15,10 +15,10 @@
 
 <div align="center">
 <a href="#x">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=lukehsiao&show_icons=true&theme=transparent&count_private=false"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api?username=lukehsiao&show_icons=true&theme=transparent"/>
 </a>
 &nbsp;
 <a href="#x">
-<img width="41.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehsiao&layout=compact&theme=transparent&hide=c,c%2B%2B,jupyter%20notebook"/>
+<img width="41.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehsiao&layout=compact&theme=transparent&hide=c,vhdl,verilog,matlab,jupyter%20notebook"/>
 </a>
 </div>

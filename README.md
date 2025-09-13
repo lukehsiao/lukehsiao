@@ -9,16 +9,16 @@
 <p align="center">
   <a href="https://luke.hsiao.dev" target="_blank">
     https://luke.hsiao.dev
-  </a>  
+  </a>
 </p>
 
 
 <div align="center">
 <a href="#x">
-<img width="55%" src="https://github-readme-stats.vercel.app/api?username=lukehsiao&show_icons=true&theme=transparent"/>
+<img width="55%" src="https://github-readme-stats-a4c4wgpa2-luke-hsiaos-projects.vercel.app/api?username=lukehsiao&show_icons=true&theme=transparent"/>
 </a>
 &nbsp;
 <a href="#x">
-<img width="41.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehsiao&layout=compact&theme=transparent&hide=c,vhdl,verilog,matlab,jupyter%20notebook,m4,assembly,javascript"/>
+<img width="41.75%" src="https://github-readme-stats-a4c4wgpa2-luke-hsiaos-projects.vercel.app/api/top-langs/?username=lukehsiao&layout=compact&theme=transparent&hide=c,vhdl,verilog,matlab,jupyter%20notebook,m4,assembly,javascript"/>
 </a>
 </div>

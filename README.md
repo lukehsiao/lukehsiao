@@ -19,6 +19,6 @@
 </a>
 &nbsp;
 <a href="#x">
-<img width="41.75%" src="https://github-readme-stats-a4c4wgpa2-luke-hsiaos-projects.vercel.app/api/top-langs/?username=lukehsiao&layout=compact&theme=transparent&hide=c,vhdl,verilog,matlab,jupyter%20notebook,m4,assembly,javascript"/>
+<img width="41.75%" src="https://github-readme-stats-a4c4wgpa2-luke-hsiaos-projects.vercel.app/api/top-langs/?username=lukehsiao&layout=compact&theme=transparent&hide=c,vhdl,verilog,matlab,jupyter%20notebook,m4,assembly,javascript,html"/>
 </a>
 </div>
